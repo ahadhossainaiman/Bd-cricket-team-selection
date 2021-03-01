@@ -1,0 +1,13 @@
+.addPlayer-container{
+    text-align: center;
+}
+h2{
+    color:white;
+}
+.totalSalaryDesign{
+    text-align: center;
+    color:white;
+    border:2px solid red;
+    background:green;
+    padding:10px;
+}

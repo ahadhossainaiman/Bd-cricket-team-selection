@@ -1,0 +1,12 @@
+.player-cart{
+    text-align: center;
+    color:white;
+    border:2px solid red;
+    background:green;
+    padding:10px;
+}
+.selected-player{
+    text-align: center;
+    color:white;
+    padding:10px;
+}
